@@ -23,4 +23,4 @@ To run the student registration portal locally:
 5. Reset or Delete any data of student, if required
  by clicking the respective buttons.
 
-Github link
+Github link - https://github.com/itzsabuj/Student-Registration-Portal.git
