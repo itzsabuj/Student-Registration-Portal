@@ -1,0 +1,57 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    background: linear-gradient(45deg,#d2001a,#7462ff);
+    
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+form input, form button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+}
+
+form button {
+    background-color:rgb(81, 81, 146);
+    color: white;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color:rgb(14, 228, 228);
+}
+
+.table-wrapper {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.actions button {
+    margin-right: 5px;
+    padding: 5px 10px;
+}
