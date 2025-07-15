@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Student Registration System
 
 ## 👤 Project Owner
 **Sabuj Mondal**
